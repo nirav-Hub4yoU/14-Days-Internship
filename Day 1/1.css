@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center; 
+    padding-bottom: 5px;
+    border-bottom: 3px Solid ;
+    color: rgb(30, 71, 111);
+    font-weight: 1500;
+   }
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin-top: 10px;
+}
+ul li {
+display: inline-block;
+}
+ul li a {
+    text-decoration: none;
+    color: chocolate;
+    padding: 5px 20px;
+    border:2px solid #CCC;
+}   
+h3{
+text-align: center;
+margin-bottom: 18px;
+font-size: 25px;
+}
+img{
+position: relative;
+left: 500px;
+width: 500px;
+height: 200px;
+}
+p,b {
+    font-family: 'Sacramento', cursive;
+}
+b{
+    background-color:cornflowerblue 
+}
+p{
+    background-color:lavenderblush; 
+}
